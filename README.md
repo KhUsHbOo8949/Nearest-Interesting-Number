@@ -25,7 +25,7 @@ int main()
 {  
 	int a;
 	cin>>a;
-	while(a<=1000)
+	while(a<=10000)
 	{
 	int n,z;
 	n=sum(a);
